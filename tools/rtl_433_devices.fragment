@@ -23,9 +23,13 @@
   DECL(auriol_afw2a1) \
   DECL(auriol_ahfl) \
   DECL(auriol_hg02832) \
+  DECL(orion_endpoint) \
+  DECL(orion_endpoint_2020) \
   DECL(badger_orion) \
   DECL(baldr_rain) \
+  DECL(baldr_therm) \
   DECL(blyss) \
+  DECL(bm5) \
   DECL(brennenstuhl_rcs_2044) \
   DECL(bresser_3ch) \
   DECL(bresser_5in1) \
@@ -54,6 +58,7 @@
   DECL(dish_remote_6_3) \
   DECL(dsc_security) \
   DECL(dsc_security_ws4945) \
+  DECL(ec3k) \
   DECL(ecodhome) \
   DECL(ecowitt) \
   DECL(efergy_e2_classic) \
@@ -83,11 +88,13 @@
   DECL(fineoffset_wh1080) \
   DECL(fineoffset_wh1080_fsk) \
   DECL(fineoffset_wh31l) \
+  DECL(fineoffset_wh43) \
   DECL(fineoffset_wh45) \
   DECL(fineoffset_wh46) \
   DECL(fineoffset_wh55) \
   DECL(fineoffset_wn34) \
   DECL(fineoffset_ws80) \
+  DECL(fineoffset_ws85) \
   DECL(fineoffset_ws90) \
   DECL(flowis) \
   DECL(fordremote) \
@@ -178,6 +185,7 @@
   DECL(oregon_scientific) \
   DECL(oregon_scientific_sl109h) \
   DECL(oregon_scientific_v1) \
+  DECL(oria_wa150km) \
   DECL(philips_aj3650) \
   DECL(philips_aj7010) \
   DECL(proflame2) \
@@ -258,6 +266,7 @@
   DECL(tpms_tyreguard400) \
   DECL(ts_ft002) \
   DECL(ttx201) \
+  DECL(universalfanctrl) \
   DECL(vaillant_vrt340f) \
   DECL(vauno_en8822c) \
   DECL(vevor_7in1) \
@@ -274,5 +283,5 @@
   DECL(x10_sec) \
   DECL(yale_hsa) \
   /* Add new decoders here. */
-#define NUMOF_OOK_DEVICES 170
-#define NUMOF_FSK_DEVICES 105
+#define NUMOF_OOK_DEVICES 174
+#define NUMOF_FSK_DEVICES 110
