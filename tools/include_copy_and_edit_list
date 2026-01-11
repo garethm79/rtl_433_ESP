@@ -1,4 +1,13 @@
+bit_util.h
+bitbuffer.h
+compat_time.h
 data.h
+decoder.h
+fatal.h
+output_log.h
+pulse_analyzer.h
 pulse_data.h
+pulse_detect.h
+r_api.h
 r_private.h
 rtl_433.h

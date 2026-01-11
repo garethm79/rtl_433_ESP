@@ -1,3 +1,15 @@
+abuf.c
+bit_util.c
+bitbuffer.c
+compat_time.c
+data.c
+decoder_util
+copy.c
+decoder_util.c
+list.c
+output_log.c
 pulse_analyzer.c
+pulse_data.c
 pulse_slicer.c
 r_api.c
+r_util.c
