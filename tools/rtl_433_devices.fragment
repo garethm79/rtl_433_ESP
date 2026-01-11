@@ -103,7 +103,8 @@
   DECL(funkbus_remote) \
   DECL(gasmate_ba1008) \
   DECL(ge_coloreffects) \
-  DECL(geevon) \
+  DECL(geevon_tx16) \
+  DECL(geevon_tx19) \
   DECL(generic_motion) \
   DECL(generic_remote) \
   DECL(generic_temperature_sensor) \
@@ -283,5 +284,5 @@
   DECL(x10_sec) \
   DECL(yale_hsa) \
   /* Add new decoders here. */
-#define NUMOF_OOK_DEVICES 174
+#define NUMOF_OOK_DEVICES 175
 #define NUMOF_FSK_DEVICES 110
